@@ -1,4 +1,4 @@
-# course-recommender-system
+# course-recommender-system : Pathways
 course recommendation system using Udemy course dataset through analyzing text and cosine similarity between the course titles. The project also predicts the time, a user requires to complete the course based on daily effort.
 
 # Home
